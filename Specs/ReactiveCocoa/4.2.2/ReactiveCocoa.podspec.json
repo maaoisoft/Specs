@@ -1,6 +1,6 @@
 {
   "name": "ReactiveCocoa",
-  "version": "4.2.2",
+  "version": "5.0",
   "summary": "A framework for composing and transforming streams of values.",
   "description": "ReactiveCocoa (RAC) is an Objective-C framework for Functional Reactive Programming.\nIt provides APIs for composing and transforming streams of values.",
   "homepage": "https://github.com/ReactiveCocoa/ReactiveCocoa",
@@ -12,14 +12,14 @@
     "Josh Abernathy": "josh@github.com"
   },
   "platforms": {
-    "ios": "8.0",
+    "ios": "10.0",
     "osx": "10.9",
     "tvos": "9.0",
     "watchos": "2.0"
   },
   "source": {
     "git": "https://github.com/ReactiveCocoa/ReactiveCocoa.git",
-    "tag": "v4.2.2"
+    "tag": "v5.0"
   },
   "dependencies": {
     "Result": [
